@@ -1,0 +1,11 @@
+    <facial>
+        <library theme_id="family" type="beard" path="004/default"/>
+        <library theme_id="family" type="ear" path="002/default"/>
+        <library theme_id="family" type="eye" path="006/angry"/>
+        <library theme_id="family"  type="eyebrow" path="002/angry"/>
+        <library theme_id="family" type="facedecoration" path="016/default"/>
+        <library theme_id="family" type="faceshape" path="001/default"/>
+        <library theme_id="family" type="hair" path="027/default"/>
+        <library theme_id="family" type="mouth" path="201/angry"/>
+        <library theme_id="family" type="nose" path="008/default"/>
+    </facial>

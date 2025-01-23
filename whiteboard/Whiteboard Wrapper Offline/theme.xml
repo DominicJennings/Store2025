@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="whiteboard" name="Whiteboard Animation" cc_theme_id="whiteboard">
+	<background id="g4b_bg001.swf" name="Plain" enable="Y" default="Y" is_premium="N" aid="23025" money="0" sharing="0"/>
+</theme>
